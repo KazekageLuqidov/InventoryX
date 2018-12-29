@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="user_email">20sp</dimen>
+    <dimen name="detailsImage_w">80dp</dimen>
+    <dimen name="detailsImage_h">80dp</dimen>
+    <dimen name="veifydet_text">16sp</dimen>
+    <dimen name="scndet_text">16sp</dimen>
+    <dimen name="detLogo_w">150dp</dimen>
+    <dimen name="detLogo_h">150dp</dimen>
+    <dimen name="detTxt14_pad">10dp</dimen>
+    <dimen name="detTxt14_margT">14dp</dimen>
+    <dimen name="detTxt9_marR">8dp</dimen>
+    <dimen name="detTxt9_mE">8dp</dimen>
+    <dimen name="detEdmar_L">7dp</dimen>
+    <dimen name="detEdmar_S">7dp</dimen>
+    <dimen name="detEdmarT">23dp</dimen>
+    <dimen name="navPad">10dp</dimen>
+    <dimen name="navM_S">60dp</dimen>
+    <dimen name="navMar_L">60dp</dimen>
+    <dimen name="navTxt_h">100dp</dimen>
+    <dimen name="navtxt_w">900dp</dimen>
+</resources>

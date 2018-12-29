@@ -1,0 +1,26 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="activity_vertical_margin">64dp</dimen>
+    <dimen name="user_email">40sp</dimen>
+    <dimen name="detailsImage_w">80dp</dimen>
+    <dimen name="detailsImage_h">350dp</dimen>
+    <dimen name="veifydet_text">40sp</dimen>
+    <dimen name="scndet_text">40sp</dimen>
+    <dimen name="detLogo_w">200dp</dimen>
+    <dimen name="detLogo_h">200dp</dimen>
+    <dimen name="detTxt14_pad">30dp</dimen>
+    <dimen name="detTxt14_margT">28dp</dimen>
+    <dimen name="detTxt9_marR">17dp</dimen>
+    <dimen name="detTxt9_mE">17dp</dimen>
+    <dimen name="detEdmar_L">25dp</dimen>
+    <dimen name="detEdmar_S">25dp</dimen>
+    <dimen name="detEdmarT">63dp</dimen>
+    <dimen name="navPad">30dp</dimen>
+    <dimen name="navM_S">100dp</dimen>
+    <dimen name="navMar_L">100dp</dimen>
+    <dimen name="navTxt_h">400dp</dimen>
+    <dimen name="navtxt_w">900dp</dimen>
+</resources>

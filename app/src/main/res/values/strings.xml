@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">InventoryX</string>
+    <string name="age">Age</string>
+    <string name="openDrawer">Open Drawer </string>
+    <string name="closeDrawer">Close Drawer </string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="Register">register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout_btn">Logout</string>
+    <string name="details_btn">Verify</string>
+    <string name="barcode_number">Barcode Number</string>
+    <string name="scan_btn"> Scan </string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Register Now</string>
+    <string name="prod_details">Product Details</string>
+    <string name="email_id">Email-Id</string>
+    <string name="pswd_hint">******</string>
+    <string name="create_acct">Login Or Create Your Own Account</string>
+    <string name="g_sign">  Sign in  </string>
+    <string name="no_account">Don\'t Have an Account?</string>
+    <string name="logout_display">Logout</string>
+    <string name="admin_barcode">BarCode Number</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_discription">Product Description</string>
+    <string name="current_date">Current Date</string>
+    <string name="save_btn">SAVE</string>
+    <string name="current_time">Current Time</string>
+    <string name="admin_scan">Scan</string>
+    <string name="admin_logout">Logout</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to send you password reset instructions.</string>
+    <string name="app_alias">Inventory Management</string>
+    <string name="company_site">Bit Developers</string>
+    <string name="link_string">More...</string>
+    <string name="log_string">Log Out</string>
+</resources>
